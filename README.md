@@ -37,7 +37,7 @@ Now that we've made our basic files, we want to get them all hooked together in 
 #Step 2
 ###Time For jQuery
 
-Now that we have our environment set up and our markup written, it's time to use some jQuery. 
+Now that we have our environment set up and our markup written, it's time to use some jQuery.
 
 The first thing we want to do is go into our scripts.js file and create our document ready function:
 
